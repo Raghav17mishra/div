@@ -1,0 +1,38 @@
+body{
+    background-color:aqua;
+}
+.upper{
+    background-color: coral;
+    display: inline-block;
+    width: 200px;
+    height: 200px; 
+    border: solid 10px;
+ 
+
+}
+.middle{
+background-color: darkgreen;
+display: inline-block;
+position: relative;
+width: 200px;
+height: 200px; 
+border: solid 10px;
+left:10px;
+right:200px;
+top:59px;
+
+
+
+
+
+}
+.lower{
+    display: inline-block;
+background-color: darkmagenta;
+background-color: darkgreen;
+width: 200px;
+height: 200px; 
+border: solid 10px;
+
+
+}
